@@ -1,0 +1,1 @@
+CREATE user 'sample'@'localhost' IDENTIFIED BY 'sppwd';
